@@ -1,0 +1,11 @@
+# OMES-Hosts-Subscription software-hosts Start
+
+# Disable PotPlayer Update
+127.0.0.1 get.daum.net
+127.0.0.1 tiara.daum.net
+127.0.0.1 start.tiara.daum.net
+
+# Disable Fork Activation Check
+127.0.0.1 v3.paddleapi.com
+
+# OMES-Hosts-Subscription software-hosts End
